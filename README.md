@@ -1,15 +1,18 @@
 # CMPUT 301 : Lab 4 Participation Exercise
 
+Jaylin Auger-LaFleur
+CCID: augerlaf
+
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
 
-## Verbal Collaboration
+## Verbal Collaboration / Team
 
 | Student Name | CCID      |
 | ------------ | --------- |
 | `Noah Zapisocki`    | `nzapisoc` |
-| `Jaylin Auger-LaFleur` | `augerlaf`  |
+| `Bryan Jonathan` | `bjonatha`  |
 | `Ivan Yip` | `iyip`  |
 | `Syed Hammad` | `smhammad`  |
 | `Hassaan Ahmed Fazli` | `hafazli`  |
